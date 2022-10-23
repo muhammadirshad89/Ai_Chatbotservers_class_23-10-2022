@@ -1,0 +1,10 @@
+Install Node js
+in folder cmd npm init
+package.json folder will create
+create file app.mjs
+change package.json/script "strat" ; "node app.mjs"
+run npm start
+use express js for make server
+cmd npm install express
+do not push node module folder to github
+make .gitignore file and mention node_modules
